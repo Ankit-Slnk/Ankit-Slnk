@@ -28,7 +28,8 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-slnk&show_icons=true" alt="ankit-slnk" /> -->
 <!-- </p> -->
 
-<p align="center">
+<!-- defaut social icons -->
+<!-- <p align="center">
 <a href="https://twitter.com/ankitslnk3112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ankitslnk3112" height="30" width="30" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/ankit-solanki-2a96501b4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit-solanki-2a96501b4" height="30" width="30" /></a>
@@ -36,6 +37,12 @@
 <a href="https://fb.com/ankit.solanki.520562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ankit.solanki.520562" height="30" width="30" /></a>
 &nbsp;
 <a href="https://instagram.com/ankit__slnk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankit__slnk" height="30" width="30" /></a>
+</p> -->
+
+<p align="center>
+(https://img.shields.io/badge/LinkedIn-ankit-solanki-blue)](https://www.linkedin.com/in/ankit-solanki-2a96501b4/)
+[![](https://img.shields.io/badge/Telegram-Ankit_Slnk-blue)](https://t.me/Ankit_Slnk)
+[![](https://img.shields.io/badge/Twitter-ankitslnk3112-lightblue)](https://twitter.com/ankitslnk3112)
 </p>
 
 <!-- Thanks to https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
