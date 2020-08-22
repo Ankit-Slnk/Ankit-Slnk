@@ -39,10 +39,10 @@
 <a href="https://instagram.com/ankit__slnk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankit__slnk" height="30" width="30" /></a>
 </p> -->
 
-<p align="center>
-(https://img.shields.io/badge/LinkedIn-ankit-solanki-blue)](https://www.linkedin.com/in/ankit-solanki-2a96501b4/)
+<p  align="center>
+[![](https://img.shields.io/badge/LinkedIn-ankit_solanki-blue)](https://linkedin.com/in/ankit-solanki-2a96501b4)
 [![](https://img.shields.io/badge/Telegram-Ankit_Slnk-blue)](https://t.me/Ankit_Slnk)
-[![](https://img.shields.io/badge/Twitter-ankitslnk3112-lightblue)](https://twitter.com/ankitslnk3112)
+[![](https://img.shields.io/badge/Twitter-ankitslnk3112-blue)](https://twitter.com/ankitslnk3112)
 </p>
 
 <!-- Thanks to https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
