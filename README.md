@@ -1,8 +1,19 @@
-<h1>Hi 👋, I'm Ankit Solanki</h1>
+<h1>Hi 👋, I'm Ankit Solanki from 🇮🇳</h1>
 
 [![](https://img.shields.io/badge/LinkedIn-ankit_solanki-blue)](https://linkedin.com/in/ankit-solanki-2a96501b4)
 [![](https://img.shields.io/badge/Telegram-Ankit_Slnk-blue)](https://t.me/Ankit_Slnk)
 [![](https://img.shields.io/badge/Twitter-ankitslnk3112-blue)](https://twitter.com/ankitslnk3112)
+
+<!-- defaut social icons -->
+<p align="center">
+<a href="https://twitter.com/ankitslnk3112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ankitslnk3112" height="30" width="30" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/ankit-solanki-2a96501b4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit-solanki-2a96501b4" height="30" width="30" /></a>
+&nbsp;
+<a href="https://fb.com/ankit.solanki.520562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ankit.solanki.520562" height="30" width="30" /></a>
+&nbsp;
+<a href="https://instagram.com/ankit__slnk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankit__slnk" height="30" width="30" /></a>
+</p>
 
 <h3>Enthusiastic mobile application developer eager to contribute to team success through smart work, attention to detail and excellent organizational skills. Clear understanding of task. Motivated to learn, grow and excel in different technology.</h3>
 
@@ -35,19 +46,6 @@
 <br>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="mysql" width="40" height="40"/> 
 </p>
-<!-- <p> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-slnk&show_icons=true" alt="ankit-slnk" /> -->
-<!-- </p> -->
-
-<!-- defaut social icons -->
-<!-- <p align="center">
-<a href="https://twitter.com/ankitslnk3112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ankitslnk3112" height="30" width="30" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/ankit-solanki-2a96501b4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit-solanki-2a96501b4" height="30" width="30" /></a>
-&nbsp;
-<a href="https://fb.com/ankit.solanki.520562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ankit.solanki.520562" height="30" width="30" /></a>
-&nbsp;
-<a href="https://instagram.com/ankit__slnk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankit__slnk" height="30" width="30" /></a>
-</p> -->
-
-<!-- Thanks to https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-slnk&show_icons=true" alt="ankit-slnk" />
+</p>
