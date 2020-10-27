@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Twitter-ankitslnk3112-blue)](https://twitter.com/ankitslnk3112)
 
 <!-- defaut social icons -->
-<p align="center">
+<p>
 <a href="https://twitter.com/ankitslnk3112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ankitslnk3112" height="30" width="30" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/ankit-solanki-2a96501b4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit-solanki-2a96501b4" height="30" width="30" /></a>
