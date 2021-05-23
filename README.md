@@ -17,6 +17,8 @@
 <a href="https://fb.com/ankit.solanki.520562" target="blank"><img align="center" src="assets/facebook.png" alt="ankit.solanki.520562" height="30" width="30" /></a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/ankit__slnk" target="blank"><img align="center" src="assets/instagram.png" alt="ankit__slnk" height="30" width="30" /></a>
+&nbsp;&nbsp;
+<a href="http://ankit-solanki.medium.com" target="blank"><img align="center" src="assets/medium.png" alt="ankit-solanki" height="30" width="30" /></a>
 </p>
 
 
