@@ -29,6 +29,8 @@
 
 - 📫 How to reach me **ankit_ms95@yahoo.com**
 
+- My [GitHub Gist](https://gist.github.com/Ankit-Slnk)
+
 <br />
 
 <p align="left">
