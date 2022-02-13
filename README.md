@@ -19,6 +19,8 @@
 <a href="https://instagram.com/ankit__slnk" target="blank"><img align="center" src="assets/instagram.png" alt="ankit__slnk" height="30" width="30" /></a>
 &nbsp;&nbsp;
 <a href="http://ankit-solanki.medium.com" target="blank"><img align="center" src="assets/medium.png" alt="ankit-solanki" height="30" width="30" /></a>
+&nbsp;&nbsp;
+<a href="https://www.freelancer.in/u/ankitms95" target="blank"><img align="center" src="assets/freelancer.png" alt="ankit-solanki" height="25" width="30" /></a>
 </p>
 
 
