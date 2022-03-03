@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ankit Solanki from 🇮🇳</h1>
+<h1>Namaste 🙏🏼, My name is Ankit Solanki and I'm from 🇮🇳</h1>
 
 [![](https://img.shields.io/badge/LinkedIn-ankit_solanki-blue)](https://linkedin.com/in/ankit-solanki-2a96501b4)
 &nbsp;&nbsp;
