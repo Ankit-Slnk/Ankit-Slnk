@@ -27,7 +27,7 @@
 <h3>Enthusiastic mobile application developer eager to contribute to team success through smart work, attention to detail and excellent organizational skills. Clear understanding of task. Motivated to learn, grow and excel in different technology.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://ankitsolanki.netlify.app/](https://ankitsolanki.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ankitsolanki.dev](https://ankitsolanki.dev)
 
 - 📫 How to reach me **ankit_ms95@yahoo.com**
 
